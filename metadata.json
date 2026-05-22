@@ -1,0 +1,6 @@
+{
+  "name": "Лавровская гречка",
+  "description": "Премиальный диджитал-шоукейс проекта поставок гречки супер-класса из села Лаврово",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
